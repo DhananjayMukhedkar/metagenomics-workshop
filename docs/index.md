@@ -7,13 +7,23 @@
 
 ## Goals
 
-Placeholder
+Session 1 Fundamental concepts
 
+This will include the overall goal of metagenomics, the types of metagenomics experiments, and considerations for experimental design.
+
+Session 2 Workflows and tools for analysis
+
+This will include workflows and tools for analysis as well as some common pitfalls and how to troubleshoot them.
 
 ## Workshop Topic Overview
 
-Placeholder
+Session 1 Analysis of 16S data using QIIME - Kellyanne Duncan
 
+This will be a short tutorial on the analysis of 16S data using QIIME with an overview of quality filtering and examples of some different aspects of analyses.
+
+Session 2 Analysis of 16S data using DADA2 - Damien Cabral
+
+This will be a short tutorial on the analysis of 16S data using DADA2 that will include DADA2 background and core principles, DADA 2 workflow, and a brief introduction to analysis in Phyloseq.
 
 ### **[Notebook](http://nbviewer.jupyter.org/github/compbiocore/metagenomics-workshop/tree/master/docs/src/notebooks)**
 
