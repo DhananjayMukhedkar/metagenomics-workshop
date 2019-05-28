@@ -2,7 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://compbiocore.github.io/metagenomics-workshop)
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](http://nbviewer.jupyter.org/github/compbiocore/metagenomics-workshop/tree/master/docs/src/notebooks)
-[![License](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/compbiocore/metagenomics-workshop/master/LICENSE)
+[![License](https://img.shields.io/github/license/compbiocore/metagenomics-workshop.svg)](https://raw.githubusercontent.com/compbiocore/metagenomics-workshop/master/LICENSE)
 
 
 ## Goals
